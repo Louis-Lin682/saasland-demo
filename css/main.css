@@ -1,0 +1,163 @@
+section {
+  padding: 100px 0;
+}
+a.btn {
+  border-radius: 50px;
+  background-color: #fff;
+}
+p {
+  color: #677294;
+}
+.row.mt-100 {
+  margin-top: 100px;
+}
+#header {
+  position: fixed;
+  width: 100%;
+  z-index: 20;
+}
+#header a.nav-link {
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+/*blue*/
+.blue {
+  height: 900px;
+  background-color: #2c9ff5;
+}
+.blue .row {
+  padding-top: 200px;
+}
+.blue .blue-content {
+  margin-top: 100px;
+  text-transform: capitalize;
+}
+.blue .blue-content h1,
+.blue .blue-content p {
+  margin-bottom: 40px;
+  color: #fff;
+}
+/*features-area*/
+.features-area .container {
+  padding: 0;
+}
+/*servies*/
+.servies {
+  padding: 130px 0;
+  background: #f5f5f5;
+}
+.servies .container {
+  padding: 0;
+  max-width: 1450px;
+}
+.servies .services-item {
+  height: 100%;
+  padding: 50px 20px 0;
+  background-color: #fff;
+}
+.servies .services-item p {
+  padding: 20px 0;
+  line-height: 30px;
+}
+.servies .services-item h4 {
+  text-transform: capitalize;
+}
+.servies .services-item .col {
+  padding: 0;
+  right: 16px;
+}
+/*pricing*/
+.Pricing {
+  background: #fbfbfd;
+}
+.Pricing .title h1 {
+  margin-bottom: 10px;
+}
+.Pricing ul.nav.nav-pills {
+  margin: 100px 0;
+  padding: 7px;
+  border-radius: 50px;
+  max-width: 400px;
+  background: #fff;
+}
+.Pricing a.nav-link {
+  padding: 15px 45px;
+  border-radius: 50px;
+}
+.Pricing h5 {
+  margin: 20px;
+}
+.Pricing .item {
+  padding: 50px;
+  background: #fff;
+}
+.Pricing .item ul.list.list-unstyled {
+  line-height: 35px;
+  margin: 30px;
+  color: #677294;
+}
+.Pricing .price {
+  padding-bottom: 20px;
+  font-size: 40px;
+  font-weight: bolder;
+  border-bottom: 1px solid #677294;
+}
+.Pricing .price span {
+  font-size: 16px;
+  padding-left: 7px;
+}
+/*get-start*/
+.get-start {
+  height: 900px;
+  padding-top: 250px;
+  background: #31a1f5;
+}
+.get-start h1,
+.get-start p {
+  color: #fff;
+}
+.get-start p {
+  margin-bottom: 160px;
+}
+/*footer*/
+#footer .footer-top {
+  padding: 100px 0;
+}
+#footer .text-unset {
+  padding: 25px 0;
+  line-height: 25px;
+}
+#footer h4.title {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+#footer ul.about {
+  line-height: 40px;
+  font-size: 18px;
+}
+#footer ul.about li a {
+  font-size: 16px;
+  color: #677294;
+  text-transform: capitalize;
+}
+#footer .contact-info {
+  padding-top: 30px;
+}
+#footer .contact-info .info a {
+  color: #677294;
+}
+#footer .footer-bottom {
+  padding: 20px 0;
+}
+#footer .footer-bottom ul.menu {
+  display: -webkit-inline-box;
+}
+#footer .footer-bottom ul.menu li + li:before {
+  content: "";
+  display: inline-block;
+  width: 1px;
+  height: 12px;
+  margin: 0 18px;
+  background: #b1b7ca;
+}
